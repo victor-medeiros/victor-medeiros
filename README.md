@@ -1,20 +1,28 @@
-### Hi there 👋
+### Hi there, I'm Victor Medeiros! 👋
 
-<!--
-**victor-medeiros/victor-medeiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Android developer with a love for crafting intuitive and robust mobile applications. My goal is to build seamless experiences that make people's lives easier and more enjoyable.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🌱 I’m currently learning:
+- Advanced **Coroutines** for efficient asynchronous programming.
+- Best practices in **MVVM** architecture and **Dependency Injection** using **Hilt**.
+- Implementing **CI/CD pipelines** for Android projects.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-medeiros&show_icons=true&theme=default&count_private=true)
+#### 👯 I’m looking to collaborate on:
+- Open-source Android projects that impact the community.
+- Innovative startups looking to build or enhance their mobile presence.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-medeiros&theme=default&langs_count=10&&layout=compact)
+#### 🤔 I’m looking for help with:
+- Fine-tuning app performance and battery optimization.
+- Expanding my knowledge in **Compose Multiplatform** for cross-platform development.
+
+#### 📫 How to reach me:
+- [LinkedIn](https://www.linkedin.com/in/victor-medeiros)
+
+#### ⚡ Fun fact:
+- When I'm not coding, you can find me at the gym, hitting new personal bests!
+
+---
+
+**Let's build something amazing together!**
