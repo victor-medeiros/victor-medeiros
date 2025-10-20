@@ -20,9 +20,6 @@ I'm a passionate Android developer with a love for crafting intuitive and robust
 #### 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/victor-medeiros)
 
-#### ⚡ Fun fact:
-- When I'm not coding, you can find me at the gym, hitting new personal bests!
-
 ---
 
 **Let's build something amazing together!**
